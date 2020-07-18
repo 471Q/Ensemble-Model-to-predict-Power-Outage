@@ -1,0 +1,2 @@
+# Ensemble-Model-to-predict-Power-Outage
+This was a design Challenge by Innovate Malaysia Competition 2020, the problem was to build a machine learning model which would detect anomaly and predict if a power outage occurrence would happen or not. The project is primarily built on Python and later cross-checked in SAS as well. To create the ensemble  Random Forest, Support Vector Machine and Linear Regression was used. Due to lack of proper interval-ed data sets Time-Series Analysis was kept in hold. Hoping to do that in future iterations.  
